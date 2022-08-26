@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <Title>Ejercicio de Introduccion a HTML en OpenBootcamp</Title>
+
+</head>
+<body>
+    <!--este es mi primer comentario de dos lineas-->
+    <H1>Aprendiendo a documentar</H1>
+    <span>mi codigo con OpenBootcamp</span>
+    
+</body>
+    <div>
+        <h2>Musica favorita</h2>
+            <ul>Crossover</ul>
+                <li>Track 1</li>
+                <a href="https://youtu.be/dYqMWv98tlc">Send her my love - JOURNEY</a>
+                <li>Track 2</li>
+                <a href="https://youtu.be/MqxEwjN3eec">Jump - VAN HALEN</a>
+                <li>Track 2</li>
+                <a href="https://youtu.be/Tktpsst3SfU">Circus - Lenny Kravitz</a>
+    </div>
+</html>
