@@ -1,0 +1,13 @@
+#titulo {
+    color: green;
+}
+
+.encabezado {
+    color: blue;
+    font-size: medium;
+}
+
+#elemento-1 {
+    color: red;
+    font-size: 2rem;
+}
