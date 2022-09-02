@@ -1,0 +1,17 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.grid-image {
+    width: 300px;
+}
+
+div {
+    border: 1px solid gray;
+    flex-wrap: wrap;
+    padding: 5px;
+    margin: auto;
+    background-color: white;
+}
